@@ -1,0 +1,4 @@
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Enum\bin\Debug\ElegantSource.Enum.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Enum\bin\Debug\ElegantSource.Enum.pdb
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Enum\obj\Debug\ElegantSource.Enum.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Enum\obj\Debug\ElegantSource.Enum.pdb

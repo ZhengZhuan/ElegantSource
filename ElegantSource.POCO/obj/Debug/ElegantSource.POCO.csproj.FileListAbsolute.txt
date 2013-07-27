@@ -1,0 +1,4 @@
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.POCO\bin\Debug\ElegantSource.POCO.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.POCO\bin\Debug\ElegantSource.POCO.pdb
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.POCO\obj\Debug\ElegantSource.POCO.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.POCO\obj\Debug\ElegantSource.POCO.pdb

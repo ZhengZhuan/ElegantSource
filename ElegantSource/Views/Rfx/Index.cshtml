@@ -1,0 +1,50 @@
+@model IQueryable<ElegantSource.Entity.Entities.Rfx>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th></th>
+        <th>
+            Name
+        </th>
+        <th>
+            AllowComment
+        </th>
+        <th>
+            ResponseDeadline
+        </th>
+    </tr>
+@if(Model != null)
+{
+    foreach (var item in Model.AsEnumerable()) 
+    {
+        <tr>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+            </td>
+            <td>
+			    @item.Name
+            </td>
+            <td>
+			    @item.AllowComment
+            </td>
+            <td>
+			    @String.Format("{0:g}", item.ResponseDeadline)
+            </td>
+        </tr>
+    }
+}
+
+</table>
+
+

@@ -1,0 +1,10 @@
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Data\bin\Debug\ElegantSource.Data.dll.config
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Data\bin\Debug\ElegantSource.Data.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Data\bin\Debug\ElegantSource.Data.pdb
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Data\bin\Debug\EntityFramework.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Data\bin\Debug\EntityFramework.xml
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Data\obj\Debug\ElegantSource.Data.csprojResolveAssemblyReference.cache
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Data\obj\Debug\ElegantSource.Data.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Data\obj\Debug\ElegantSource.Data.pdb
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Data\bin\Debug\ElegantSource.Entity.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Data\bin\Debug\ElegantSource.Entity.pdb

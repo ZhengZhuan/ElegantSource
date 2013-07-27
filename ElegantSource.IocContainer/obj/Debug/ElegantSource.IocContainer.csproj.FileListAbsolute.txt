@@ -1,0 +1,4 @@
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.IocContainer\bin\Debug\ElegantSource.IocContainer.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.IocContainer\bin\Debug\ElegantSource.IocContainer.pdb
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.IocContainer\obj\Debug\ElegantSource.IocContainer.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.IocContainer\obj\Debug\ElegantSource.IocContainer.pdb

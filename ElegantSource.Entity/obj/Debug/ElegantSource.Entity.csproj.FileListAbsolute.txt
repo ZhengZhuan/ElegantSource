@@ -1,0 +1,5 @@
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Entity\bin\Debug\ElegantSource.Entity.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Entity\bin\Debug\ElegantSource.Entity.pdb
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Entity\obj\Debug\ElegantSource.Entity.csprojResolveAssemblyReference.cache
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Entity\obj\Debug\ElegantSource.Entity.dll
+E:\Source Code\EpicApp\ElegantSource\ElegantSource.Entity\obj\Debug\ElegantSource.Entity.pdb
