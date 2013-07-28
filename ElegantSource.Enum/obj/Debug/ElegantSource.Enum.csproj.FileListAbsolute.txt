@@ -2,3 +2,8 @@ E:\Source Code\EpicApp\ElegantSource\ElegantSource.Enum\bin\Debug\ElegantSource.
 E:\Source Code\EpicApp\ElegantSource\ElegantSource.Enum\bin\Debug\ElegantSource.Enum.pdb
 E:\Source Code\EpicApp\ElegantSource\ElegantSource.Enum\obj\Debug\ElegantSource.Enum.dll
 E:\Source Code\EpicApp\ElegantSource\ElegantSource.Enum\obj\Debug\ElegantSource.Enum.pdb
+E:\Source\ElegantSource\ElegantSource.Enum\bin\Debug\ElegantSource.Enum.dll
+E:\Source\ElegantSource\ElegantSource.Enum\bin\Debug\ElegantSource.Enum.pdb
+E:\Source\ElegantSource\ElegantSource.Enum\obj\Debug\ElegantSource.Enum.csprojResolveAssemblyReference.cache
+E:\Source\ElegantSource\ElegantSource.Enum\obj\Debug\ElegantSource.Enum.dll
+E:\Source\ElegantSource\ElegantSource.Enum\obj\Debug\ElegantSource.Enum.pdb

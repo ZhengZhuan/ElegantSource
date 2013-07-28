@@ -3,3 +3,8 @@ E:\Source Code\EpicApp\ElegantSource\ElegantSource.Service\bin\Debug\ElegantSour
 E:\Source Code\EpicApp\ElegantSource\ElegantSource.Service\obj\Debug\ElegantSource.Service.csprojResolveAssemblyReference.cache
 E:\Source Code\EpicApp\ElegantSource\ElegantSource.Service\obj\Debug\ElegantSource.Service.dll
 E:\Source Code\EpicApp\ElegantSource\ElegantSource.Service\obj\Debug\ElegantSource.Service.pdb
+E:\Source\ElegantSource\ElegantSource.Service\bin\Debug\ElegantSource.Service.dll
+E:\Source\ElegantSource\ElegantSource.Service\bin\Debug\ElegantSource.Service.pdb
+E:\Source\ElegantSource\ElegantSource.Service\obj\Debug\ElegantSource.Service.csprojResolveAssemblyReference.cache
+E:\Source\ElegantSource\ElegantSource.Service\obj\Debug\ElegantSource.Service.dll
+E:\Source\ElegantSource\ElegantSource.Service\obj\Debug\ElegantSource.Service.pdb
